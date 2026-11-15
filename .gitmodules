@@ -1,0 +1,9 @@
+[submodule "deps/3rd/libevent"]
+	path = deps/3rd/libevent
+	url = https://github.com/libevent/libevent
+[submodule "deps/3rd/jsoncpp"]
+	path = deps/3rd/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp
+[submodule "deps/3rd/replxx"]
+	path = deps/3rd/replxx
+	url = https://github.com/AmokHuginnsson/replxx
